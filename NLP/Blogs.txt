@@ -1,0 +1,8 @@
+Convolutional methods for text
+https://medium.com/@TalPerry/convolutional-methods-for-text-d5260fd5675f
+
+Embed, encode, attend, predict: The new deep learning formula for state-of-the-art NLP models
+https://explosion.ai/blog/deep-learning-formula-nlp
+
+Beam search
+https://www.reddit.com/r/MachineLearning/comments/3a4x8t/beam_search/

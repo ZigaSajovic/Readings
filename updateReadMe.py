@@ -1,3 +1,6 @@
+"""
+Script updates the readMe when new papers are added
+"""
 import os
 
 linkPath="https://github.com/ZigaSajovic/Readings/tree/master/"
@@ -13,12 +16,17 @@ with open("README.md", "w") as f:
 		dir=dir_[0][2:]
 		subsection=link_("##", dir,dir)
 		print(subsection+"\n", file=f)
-		for pdf_ in dir_[2]:
+		for pdf_ in sorted(dir_[2]):
 			pdf=pdf_
 			if " " in pdf:
 				pdf=pdf.replace(" ","_")
 				os.rename(dir+"/"+pdf_,dir+"/"+pdf)
 				print(dir+": Renamed "+pdf_+" -> "+pdf)
+			if not pdf[0].isupper():
+				pdfCap=pdf.capitalize()
+				os.rename(dir+"/"+pdf,dir+"/"+pdfCap)
+				print(dir+": Renamed "+pdf+" -> "+pdfCap)
+				pdf=pdfCap
 			listElement=link_("*",pdf.replace(".pdf","").replace("_"," "),dir+"/"+pdf)
 			print(listElement, file=f)
 		print("\n",file=f)
