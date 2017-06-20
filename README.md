@@ -39,6 +39,11 @@ Papers I have studied, stored for future reference
 * [Volterra series](https://github.com/ZigaSajovic/Readings/tree/master/Series/Volterra_series.pdf)
 
 
+## [Compilers](https://github.com/ZigaSajovic/Readings/tree/master/Compilers)
+
+* [Modern Compiler Implementation in Java](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_in_Java.pdf)
+
+
 ## [Embeddings](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings)
 
 * [word2Vec Semi Derivation](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/word2Vec_Semi_Derivation.pdf)
