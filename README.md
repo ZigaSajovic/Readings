@@ -8,6 +8,7 @@ Papers I have studied, stored for future reference
 * [A Decomposable Attention Model for Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/NLP/A_Decomposable_Attention_Model_for_Natural_Language_Inference.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Blogs.txt)
 * [Convolutional Neural Networks for Sentence Classification](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Convolutional_Neural_Networks_for_Sentence_Classification.pdf)
+* [Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Enhancing_and_Combining_Sequential_and_Tree_LSTM_for_Natural_Language_Inference.pdf)
 * [Generating Sentences from a Continuous Space](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Generating_Sentences_from_a_Continuous_Space.pdf)
 * [Generating Sequences With RNNs](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Generating_Sequences_With_RNNs.pdf)
 * [Grammar as a Foreign Language](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Grammar_as_a_Foreign_Language.pdf)
