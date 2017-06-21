@@ -1,7 +1,8 @@
 # Readings
 
-Papers I have studied, stored for future reference
+Papers and Research I am fluent in, stored for future reference Edit
 
+Add topics
 
 ## [NLP](https://github.com/ZigaSajovic/Readings/tree/master/NLP)
 

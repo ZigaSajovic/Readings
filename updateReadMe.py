@@ -12,10 +12,12 @@ with open("README.md", "w") as f:
 	print("",file=f)
 	dirs=[dir_ for dir_ in os.walk("./") if "./.git" not in dir_[0] and dir_[0]!="./"]
 	link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
+	pdfNum=0
 	for dir_ in dirs:
 		dir=dir_[0][2:]
 		subsection=link_("##", dir,dir)
 		print(subsection+"\n", file=f)
+		pdfNum+=len(dir_[2])
 		for pdf_ in sorted(dir_[2]):
 			pdf=pdf_
 			if " " in pdf:
@@ -30,3 +32,4 @@ with open("README.md", "w") as f:
 			listElement=link_("*",pdf.replace(".pdf","").replace("_"," "),dir+"/"+pdf)
 			print(listElement, file=f)
 		print("\n",file=f)
+	print("ReadMe has been updated. Contains %d papers."%pdfNum)
