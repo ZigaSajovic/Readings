@@ -14,6 +14,7 @@ Papers I have studied, stored for future reference
 * [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Improved_Semantic_Representations_From_Tree-Structured_Long_Short-Term_Memory_Networks.pdf)
 * [Long Short-Term Memory Over Tree Structures](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Long_Short-Term_Memory_Over_Tree_Structures.pdf)
 * [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://github.com/ZigaSajovic/Readings/tree/master/NLP/NEURAL_MACHINE_TRANSLATION_BY_JOINTLY_LEARNING_TO_ALIGN_AND_TRANSLATE.pdf)
+* [Neural Tree Indexers for Text Understanding](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Neural_Tree_Indexers_for_Text_Understanding.pdf)
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/NLP/Scheduled_Sampling_for_Sequence_Prediction_with_Recurrent_Neural_Networks.pdf)
 
 
