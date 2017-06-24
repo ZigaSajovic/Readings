@@ -11,6 +11,7 @@ with open("README.md", "w") as f:
 			print(line, file=f)
 	print("",file=f)
 	dirs=[dir_ for dir_ in os.walk("./") if "./.git" not in dir_[0] and dir_[0]!="./"]
+	dirs.sort(key=lambda x: x[0][2:])
 	link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
 	pdfNum=0
 	for dir_ in dirs:

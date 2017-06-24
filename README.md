@@ -3,9 +3,15 @@
 Papers and Research I am fluent in, stored for future reference
 
 
-## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
+## [Compilers](https://github.com/ZigaSajovic/Readings/tree/master/Compilers)
 
-* [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
+* [Modern Compiler Implementation in Java](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_in_Java.pdf)
+
+
+## [Embeddings](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings)
+
+* [How exactly does word2vec work?](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/How_exactly_does_word2vec_work?.pdf)
+* [Word2vec semi derivation](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/Word2vec_semi_derivation.pdf)
 
 
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
@@ -30,6 +36,16 @@ Papers and Research I am fluent in, stored for future reference
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Scheduled_Sampling_for_Sequence_Prediction_with_Recurrent_Neural_Networks.pdf)
 
 
+## [Series](https://github.com/ZigaSajovic/Readings/tree/master/Series)
+
+* [Volterra series](https://github.com/ZigaSajovic/Readings/tree/master/Series/Volterra_series.pdf)
+
+
+## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
+
+* [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
+
+
 ## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
 
 * [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_for_Text_Generation.pdf)
@@ -40,27 +56,11 @@ Papers and Research I am fluent in, stored for future reference
 * [Semi-supervised Learning with Deep Generative Models](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Semi-supervised_Learning_with_Deep_Generative_Models.pdf)
 
 
-## [Series](https://github.com/ZigaSajovic/Readings/tree/master/Series)
-
-* [Volterra series](https://github.com/ZigaSajovic/Readings/tree/master/Series/Volterra_series.pdf)
-
-
 ## [Vision](https://github.com/ZigaSajovic/Readings/tree/master/Vision)
 
 * [A Variational Framework for Non-local Image](https://github.com/ZigaSajovic/Readings/tree/master/Vision/A_Variational_Framework_for_Non-local_Image.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Fully_Convolutional_Networks_for_Semantic_Segmentation.pdf)
 * [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Geodesic_Active_Contours.pdf)
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Spatial_Transformer_Networks.pdf)
-
-
-## [Compilers](https://github.com/ZigaSajovic/Readings/tree/master/Compilers)
-
-* [Modern Compiler Implementation in Java](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_in_Java.pdf)
-
-
-## [Embeddings](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings)
-
-* [How exactly does word2vec work?](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/How_exactly_does_word2vec_work?.pdf)
-* [Word2vec semi derivation](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/Word2vec_semi_derivation.pdf)
 
 
