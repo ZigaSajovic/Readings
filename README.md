@@ -3,11 +3,6 @@
 Papers and Research I am fluent in, stored for future reference
 
 
-## [Model Arhitectures](https://github.com/ZigaSajovic/Readings/tree/master/Model Arhitectures)
-
-* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Model Arhitectures/Blogs.txt)
-
-
 ## [NLP](https://github.com/ZigaSajovic/Readings/tree/master/NLP)
 
 * [A Decomposable Attention Model for Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/NLP/A_Decomposable_Attention_Model_for_Natural_Language_Inference.pdf)
@@ -28,6 +23,11 @@ Papers and Research I am fluent in, stored for future reference
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
 
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
+
+
+## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
+
+* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Blogs.txt)
 
 
 ## [CV](https://github.com/ZigaSajovic/Readings/tree/master/CV)
@@ -52,9 +52,9 @@ Papers and Research I am fluent in, stored for future reference
 
 * [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_for_Text_Generation.pdf)
 * [Auto-Encoding Variational Bayes](https://github.com/ZigaSajovic/Readings/tree/master/Variational AutoEncoders/Auto-Encoding_Variational_Bayes.pdf)
+* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Variational AutoEncoders/Blogs.txt)
 * [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational AutoEncoders/DRAW:_A_Recurrent_Neural_Network_For_Image_Generation.pdf)
 * [Improved Variational Autoencoders for Text Modeling using Dilated Convolutions](https://github.com/ZigaSajovic/Readings/tree/master/Variational AutoEncoders/Improved_Variational_Autoencoders_for_Text_Modeling_using_Dilated_Convolutions.pdf)
-* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Variational AutoEncoders/Blogs.txt)
 
 
 ## [Embeddings](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings)

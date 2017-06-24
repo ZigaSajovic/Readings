@@ -15,7 +15,7 @@ with open("README.md", "w") as f:
 	pdfNum=0
 	for dir_ in dirs:
 		dir=dir_[0][2:]
-		subsection=link_("##", dir,dir)
+		subsection=link_("##", dir.replace("_", " "),dir)
 		print(subsection+"\n", file=f)
 		pdfNum+=len(dir_[2])
 		for pdf_ in sorted(dir_[2]):
