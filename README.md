@@ -29,7 +29,7 @@ Papers and Research I am fluent in, stored for future reference
 
 * [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/VAE/A_Hybrid_Convolutional_Variational_Autoencoder_for_Text_Generation.pdf)
 * [Auto-Encoding Variational Bayes](https://github.com/ZigaSajovic/Readings/tree/master/VAE/Auto-Encoding_Variational_Bayes.pdf)
-* [DRAW](https://github.com/ZigaSajovic/Readings/tree/master/VAE/DRAW.pdf)
+* [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/ZigaSajovic/Readings/tree/master/VAE/DRAW:_A_Recurrent_Neural_Network_For_Image_Generation.pdf)
 
 
 ## [CV](https://github.com/ZigaSajovic/Readings/tree/master/CV)
