@@ -27,6 +27,7 @@ Papers and Research I am fluent in, stored for future reference
 
 ## [VAE](https://github.com/ZigaSajovic/Readings/tree/master/VAE)
 
+* [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/VAE/A_Hybrid_Convolutional_Variational_Autoencoder_for_Text_Generation.pdf)
 * [Auto-Encoding Variational Bayes](https://github.com/ZigaSajovic/Readings/tree/master/VAE/Auto-Encoding_Variational_Bayes.pdf)
 * [DRAW](https://github.com/ZigaSajovic/Readings/tree/master/VAE/DRAW.pdf)
 
