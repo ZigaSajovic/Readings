@@ -62,6 +62,8 @@ Papers and Research I am fluent in, stored for future reference
 * [A Variational Framework for Non-local Image](https://github.com/ZigaSajovic/Readings/tree/master/Vision/A_Variational_Framework_for_Non-local_Image.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Fully_Convolutional_Networks_for_Semantic_Segmentation.pdf)
 * [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Geodesic_Active_Contours.pdf)
+* [Inverse Compositional Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf)
+* [Inverse Compositional Spatial Transformer Networks.crdownload](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf.crdownload)
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Spatial_Transformer_Networks.pdf)
 
 
