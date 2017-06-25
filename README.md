@@ -65,5 +65,6 @@ Papers and Research I am fluent in, stored for future reference
 * [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Geodesic_Active_Contours.pdf)
 * [Inverse Compositional Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf)
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Spatial_Transformer_Networks.pdf)
+* [You Only Look Once: Unified, Real-Time Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Vision/You_Only_Look_Once:_Unified,_Real-Time_Object_Detection.pdf)
 
 
