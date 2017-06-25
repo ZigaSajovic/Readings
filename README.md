@@ -8,6 +8,17 @@ Papers and Research I am fluent in, stored for future reference
 * [Modern Compiler Implementation in Java](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_in_Java.pdf)
 
 
+## [Computer Vision](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision)
+
+* [A Variational Framework for Non-local Image](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/A_Variational_Framework_for_Non-local_Image.pdf)
+* [Fully Convolutional Networks for Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fully_Convolutional_Networks_for_Semantic_Segmentation.pdf)
+* [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Geodesic_Active_Contours.pdf)
+* [Inverse Compositional Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf)
+* [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Spatial_Transformer_Networks.pdf)
+* [You Only Look Once: Unified, Real-Time Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/You_Only_Look_Once:_Unified,_Real-Time_Object_Detection.pdf)
+* [Blogs](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Blogs)
+
+
 ## [Embeddings](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings)
 
 * [How exactly does word2vec work?](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/How_exactly_does_word2vec_work?.pdf)
@@ -56,15 +67,5 @@ Papers and Research I am fluent in, stored for future reference
 * [DRAW: A Recurrent Neural Network For Image Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/DRAW:_A_Recurrent_Neural_Network_For_Image_Generation.pdf)
 * [Improved Variational Autoencoders for Text Modeling using Dilated Convolutions](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Improved_Variational_Autoencoders_for_Text_Modeling_using_Dilated_Convolutions.pdf)
 * [Semi-supervised Learning with Deep Generative Models](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Semi-supervised_Learning_with_Deep_Generative_Models.pdf)
-
-
-## [Vision](https://github.com/ZigaSajovic/Readings/tree/master/Vision)
-
-* [A Variational Framework for Non-local Image](https://github.com/ZigaSajovic/Readings/tree/master/Vision/A_Variational_Framework_for_Non-local_Image.pdf)
-* [Fully Convolutional Networks for Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Fully_Convolutional_Networks_for_Semantic_Segmentation.pdf)
-* [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Geodesic_Active_Contours.pdf)
-* [Inverse Compositional Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf)
-* [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Spatial_Transformer_Networks.pdf)
-* [You Only Look Once: Unified, Real-Time Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Vision/You_Only_Look_Once:_Unified,_Real-Time_Object_Detection.pdf)
 
 
