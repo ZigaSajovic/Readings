@@ -16,6 +16,7 @@ Papers and Research I am fluent in, stored for future reference
 
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
 
+* [Batch Normalization: Accelerating Deep Network Training b y Reducing Internal Covariate Shift](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Batch_Normalization:_Accelerating_Deep_Network_Training_b_y_Reducing_Internal_Covariate_Shift.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Blogs.txt)
 
 
@@ -63,7 +64,6 @@ Papers and Research I am fluent in, stored for future reference
 * [Fully Convolutional Networks for Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Fully_Convolutional_Networks_for_Semantic_Segmentation.pdf)
 * [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Geodesic_Active_Contours.pdf)
 * [Inverse Compositional Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf)
-* [Inverse Compositional Spatial Transformer Networks.crdownload](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf.crdownload)
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Vision/Spatial_Transformer_Networks.pdf)
 
 
