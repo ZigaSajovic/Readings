@@ -1,2 +1,2 @@
 # Readings
-Papers and Research I am fluent in, stored for future reference
+Contemporary research I am fluent in, stored for future reference
