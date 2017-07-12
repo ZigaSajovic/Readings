@@ -12,6 +12,7 @@ Contemporary research I am fluent in, stored for future reference
 
 * [A Variational Framework for Non-local Image](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/A_Variational_Framework_for_Non-local_Image.pdf)
 * [Blogs](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Blogs)
+* [Fast R-CNN](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fast_R-CNN.pdf)
 * [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Faster_R-CNN:_Towards_Real-Time_Object_Detection_with_Region_Proposal_Networks.pdf)
 * [Fully-Convolutional Siamese Networks for Object Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fully-Convolutional_Siamese_Networks_for_Object_Tracking.pdf)
 * [Fully Convolutional Networks for Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fully_Convolutional_Networks_for_Semantic_Segmentation.pdf)
