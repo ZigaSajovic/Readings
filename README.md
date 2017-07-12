@@ -19,6 +19,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Geodesic_Active_Contours.pdf)
 * [Inverse Compositional Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Inverse_Compositional_Spatial_Transformer_Networks.pdf)
 * [Learning to Track at 100 FPS with Deep Regression Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Learning_to_Track_at_100_FPS_with_Deep_Regression_Networks.pdf)
+* [Mask R-CNN](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Mask_R-CNN.pdf)
 * [Modeling and Propagating CNNs in a Tree Structure for Visual Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Modeling_and_Propagating_CNNs_in_a_Tree_Structure_for_Visual_Tracking.pdf)
 * [Once for All: a Two-flow Convolutional Neural Network for Visual Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Once_for_All:_a_Two-flow_Convolutional_Neural_Network_for_Visual_Tracking.pdf)
 * [R-FCN: Object Detection via Region-based Fully Convolutional Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/R-FCN:_Object_Detection_via_Region-based_Fully_Convolutional_Networks.pdf)
