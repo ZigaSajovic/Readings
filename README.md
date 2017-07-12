@@ -44,6 +44,7 @@ Contemporary research I am fluent in, stored for future reference
 ## [Natural Language Processing](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing)
 
 * [A Decomposable Attention Model for Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/A_Decomposable_Attention_Model_for_Natural_Language_Inference.pdf)
+* [Attention Is All You Need](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Attention_Is_All_You_Need.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Blogs.txt)
 * [Convolutional Neural Networks for Sentence Classification](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Convolutional_Neural_Networks_for_Sentence_Classification.pdf)
 * [Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Enhancing_and_Combining_Sequential_and_Tree_LSTM_for_Natural_Language_Inference.pdf)
