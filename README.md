@@ -47,6 +47,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Attention Is All You Need](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Attention_Is_All_You_Need.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Blogs.txt)
 * [Convolutional Neural Networks for Sentence Classification](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Convolutional_Neural_Networks_for_Sentence_Classification.pdf)
+* [Effective Approaches to Attention-based Neural Machine Translation](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Effective_Approaches_to_Attention-based_Neural_Machine_Translation.pdf)
 * [Enhancing and Combining Sequential and Tree LSTM for Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Enhancing_and_Combining_Sequential_and_Tree_LSTM_for_Natural_Language_Inference.pdf)
 * [Generating Sentences from a Continuous Space](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Generating_Sentences_from_a_Continuous_Space.pdf)
 * [Generating Sequences With RNNs](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Generating_Sequences_With_RNNs.pdf)
