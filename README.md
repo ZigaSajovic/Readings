@@ -3,6 +3,11 @@
 Contemporary research I am fluent in, stored for future reference
 
 
+## [Cognitive Science](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science)
+
+* [Facing Up to the Problem of Consciousness](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science/Facing_Up_to_the_Problem_of_Consciousness.pdf)
+
+
 ## [Compilers](https://github.com/ZigaSajovic/Readings/tree/master/Compilers)
 
 * [Modern Compiler Implementation in Java](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_in_Java.pdf)
