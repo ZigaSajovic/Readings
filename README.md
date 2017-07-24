@@ -42,6 +42,7 @@ Contemporary research I am fluent in, stored for future reference
 
 * [Batch Normalization: Accelerating Deep Network Training b y Reducing Internal Covariate Shift](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Batch_Normalization:_Accelerating_Deep_Network_Training_b_y_Reducing_Internal_Covariate_Shift.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Blogs.txt)
+* [Densely Connected Convolutional Networks](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Densely_Connected_Convolutional_Networks.pdf)
 * [Layer Normalization](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Layer_Normalization.pdf)
 * [Self-Normalizing Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Self-Normalizing_Neural_Networks.pdf)
 
