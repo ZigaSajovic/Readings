@@ -77,6 +77,14 @@ Contemporary research I am fluent in, stored for future reference
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
 
 
+## [Type Theory](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory)
+
+* [Objects of Categories as Complex Numbers](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/Objects_of_Categories_as_Complex_Numbers.pdf)
+* [Seven trees in one](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/Seven_trees_in_one.pdf)
+* [The Derivative of a Regular Type is its Type of One-Hole Contexts](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/The_Derivative_of_a_Regular_Type_is_its_Type_of_One-Hole_Contexts.pdf)
+* [The Two Dualities of Computation: Negative and Fractional Types](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/The_Two_Dualities_of_Computation:_Negative_and_Fractional_Types.pdf)
+
+
 ## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
 
 * [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_for_Text_Generation.pdf)
