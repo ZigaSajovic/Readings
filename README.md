@@ -38,6 +38,17 @@ Contemporary research I am fluent in, stored for future reference
 * [Word2vec semi derivation](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/Word2vec_semi_derivation.pdf)
 
 
+## [Functional Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis)
+
+* [Functional Analysis and Optimization](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Functional_Analysis_and_Optimization.pdf)
+* [Note
+on Schroder's functional equation](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Note
+on_Schroder's_functional_equation.pdf)
+* [Schroeder’s Equation in Several Variables](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_in_Several_Variables.pdf)
+* [Schroeder’s Equation in Several Variables: A survey](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_in_Several_Variables:_A_survey.pdf)
+* [The Operational Calculus](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/The_Operational_Calculus.pdf)
+
+
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
 
 * [Batch Normalization: Accelerating Deep Network Training b y Reducing Internal Covariate Shift](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Batch_Normalization:_Accelerating_Deep_Network_Training_b_y_Reducing_Internal_Covariate_Shift.pdf)
