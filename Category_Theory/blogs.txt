@@ -1,0 +1,5 @@
+Category Theory & Programming for Rivieria Scala Clojure 
+http://yogsototh.github.io/Category-Theory-Presentation/
+
+Category Theory I by Bartosz Milewski (video lectures)
+https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_&index=1
