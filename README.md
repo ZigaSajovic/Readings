@@ -3,9 +3,16 @@
 Contemporary research I am fluent in, stored for future reference
 
 
+## [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
+
+* [Categories and Haskell: An introduction to the mathematics behind modern functional programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_and_Haskell:_An_introduction_to_the_mathematics_behind_modern_functional_programming.pdf)
+* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
+
+
 ## [Cognitive Science](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science)
 
 * [Facing Up to the Problem of Consciousness](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science/Facing_Up_to_the_Problem_of_Consciousness.pdf)
+* [The extended mind ](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science/The_extended_mind_.pdf)
 
 
 ## [Compilers](https://github.com/ZigaSajovic/Readings/tree/master/Compilers)
