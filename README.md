@@ -5,8 +5,8 @@ Contemporary research I am fluent in, stored for future reference
 
 ## [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
 
-* [Categories and Haskell: An introduction to the mathematics behind modern functional programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_and_Haskell:_An_introduction_to_the_mathematics_behind_modern_functional_programming.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
+* [Categories and Haskell: An introduction to the mathematics behind modern functional programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_and_Haskell:_An_introduction_to_the_mathematics_behind_modern_functional_programming.pdf)
 
 
 ## [Cognitive Science](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science)
@@ -90,7 +90,10 @@ Contemporary research I am fluent in, stored for future reference
 
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
 
+* [EM Demystified: An Expectation-Maximization Tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/EM_Demystified:_An_Expectation-Maximization_Tutorial.pdf)
+* [Independent Components Analysis-CS229](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Components_Analysis-CS229.pdf)
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
+* [The Expectation Maximization Algorithm A short tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Expectation_Maximization_Algorithm_A_short_tutorial.pdf)
 
 
 ## [Type Theory](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory)
