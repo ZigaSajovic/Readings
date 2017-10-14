@@ -1,5 +1,5 @@
 import os
-import pyPdf
+import PyPDF2 as pyPdf
 dirs=[dir_ for dir_ in os.walk("./") if "./.git" not in dir_[0] and dir_[0]!="./"]
 sum=0
 for d in dirs:
