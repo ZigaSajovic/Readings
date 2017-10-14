@@ -93,6 +93,7 @@ Contemporary research I am fluent in, stored for future reference
 * [EM Demystified: An Expectation-Maximization Tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/EM_Demystified:_An_Expectation-Maximization_Tutorial.pdf)
 * [Independent Components Analysis-CS229](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Components_Analysis-CS229.pdf)
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
+* [The EM algorithm in independent component analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_EM_algorithm_in_independent_component_analysis.pdf)
 * [The Expectation Maximization Algorithm A short tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Expectation_Maximization_Algorithm_A_short_tutorial.pdf)
 
 
