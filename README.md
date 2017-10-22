@@ -105,10 +105,6 @@ Contemporary research I am fluent in, stored for future reference
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
 
 
-## [Type Theory](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory)
-
-
-
 ## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
 
 * [A Hybrid Convolutional Variational Autoencoder for Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_for_Text_Generation.pdf)
