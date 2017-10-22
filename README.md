@@ -7,6 +7,10 @@ Contemporary research I am fluent in, stored for future reference
 
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
 * [Categories and Haskell: An introduction to the mathematics behind modern functional programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_and_Haskell:_An_introduction_to_the_mathematics_behind_modern_functional_programming.pdf)
+* [Objects of Categories as Complex Numbers](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Objects_of_Categories_as_Complex_Numbers.pdf)
+* [Seven trees in one](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Seven_trees_in_one.pdf)
+* [The Derivative of a Regular Type is its Type of One-Hole Contexts](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/The_Derivative_of_a_Regular_Type_is_its_Type_of_One-Hole_Contexts.pdf)
+* [The Two Dualities of Computation: Negative and Fractional Types](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/The_Two_Dualities_of_Computation:_Negative_and_Fractional_Types.pdf)
 
 
 ## [Cognitive Science](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science)
@@ -103,10 +107,6 @@ Contemporary research I am fluent in, stored for future reference
 
 ## [Type Theory](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory)
 
-* [Objects of Categories as Complex Numbers](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/Objects_of_Categories_as_Complex_Numbers.pdf)
-* [Seven trees in one](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/Seven_trees_in_one.pdf)
-* [The Derivative of a Regular Type is its Type of One-Hole Contexts](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/The_Derivative_of_a_Regular_Type_is_its_Type_of_One-Hole_Contexts.pdf)
-* [The Two Dualities of Computation: Negative and Fractional Types](https://github.com/ZigaSajovic/Readings/tree/master/Type_Theory/The_Two_Dualities_of_Computation:_Negative_and_Fractional_Types.pdf)
 
 
 ## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
