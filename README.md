@@ -56,6 +56,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Schroeder’s Equation in Several Variables](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_in_Several_Variables.pdf)
 * [Schroeder’s Equation in Several Variables: A survey](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_in_Several_Variables:_A_survey.pdf)
 * [The Operational Calculus](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/The_Operational_Calculus.pdf)
+* [Volterra series](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Volterra_series.pdf)
 
 
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
@@ -87,11 +88,6 @@ Contemporary research I am fluent in, stored for future reference
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Scheduled_Sampling_for_Sequence_Prediction_with_Recurrent_Neural_Networks.pdf)
 
 
-## [Series](https://github.com/ZigaSajovic/Readings/tree/master/Series)
-
-* [Volterra series](https://github.com/ZigaSajovic/Readings/tree/master/Series/Volterra_series.pdf)
-
-
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
 
 * [EM Demystified: An Expectation-Maximization Tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/EM_Demystified:_An_Expectation-Maximization_Tutorial.pdf)
@@ -101,9 +97,9 @@ Contemporary research I am fluent in, stored for future reference
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
 * [The EM algorithm in independent component analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_EM_algorithm_in_independent_component_analysis.pdf)
 * [The Expectation Maximization Algorithm A short tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Expectation_Maximization_Algorithm_A_short_tutorial.pdf)
-* [Variational Inference: A Review for Statisticians](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Inference:_A_Review_for_Statisticians.pdf)
 * [Variational Bayesian Hidden Markov Models](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Hidden_Markov_Models.pdf)
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
+* [Variational Inference: A Review for Statisticians](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Inference:_A_Review_for_Statisticians.pdf)
 
 
 ## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
