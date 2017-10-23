@@ -101,6 +101,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
 * [The EM algorithm in independent component analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_EM_algorithm_in_independent_component_analysis.pdf)
 * [The Expectation Maximization Algorithm A short tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Expectation_Maximization_Algorithm_A_short_tutorial.pdf)
+* [Variational Inference: A Review for Statisticians](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Inference:_A_Review_for_Statisticians.pdf)
 * [Variational Bayesian Hidden Markov Models](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Hidden_Markov_Models.pdf)
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
 
