@@ -90,15 +90,13 @@ Contemporary research I am fluent in, stored for future reference
 
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
 
-* [EM Demystified: An Expectation-Maximization Tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/EM_Demystified:_An_Expectation-Maximization_Tutorial.pdf)
 * [Factor analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Factor_analysis.pdf)
+* [Independent Component Analysis-SVD perspective](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Component_Analysis-SVD_perspective.pdf)
 * [Independent Components Analysis-CS229](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Components_Analysis-CS229.pdf)
 * [Independent Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Factor_Analysis.pdf)
 * [Noise-contrastive estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise-contrastive_estimation.pdf)
-* [The EM algorithm in independent component analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_EM_algorithm_in_independent_component_analysis.pdf)
-* [The Expectation Maximization Algorithm A short tutorial](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Expectation_Maximization_Algorithm_A_short_tutorial.pdf)
-* [Variational Bayesian Mixtures of Factor Analysers](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Mixtures_of_Factor_Analysers.pdf)
 * [Variational Bayesian Hidden Markov Models](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Hidden_Markov_Models.pdf)
+* [Variational Bayesian Mixtures of Factor Analysers](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Mixtures_of_Factor_Analysers.pdf)
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
 * [Variational Inference: A Review for Statisticians](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Inference:_A_Review_for_Statisticians.pdf)
 
