@@ -64,7 +64,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Scheduled_Sampling_for_Sequence_Prediction_with_Recurrent_Neural_Networks.pdf)
 ## [Reinforcement Learning](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/Blogs.txt)
-* [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_LearningRL_by_Denis_Silver_-_DeepMind)
+* [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/RL_by_Denis_Silver_-_DeepMind)
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
 * [Factor analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Factor_analysis.pdf)
 * [Independent Component Analysis-SVD perspective](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Component_Analysis-SVD_perspective.pdf)

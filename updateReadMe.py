@@ -17,7 +17,7 @@ def directoryDescent(pwd="./",depth=0):
   link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
   if dir__[0] not in forbiden:
     this_dir=dir__[0].split("/")[-1]
-    url_dir="".join(dir__[0].split("/")[1:])
+    url_dir="/".join(dir__[0].split("/")[1:])
     isSilent=any(map(lambda x:x in silent,dir__[2]))
     if isSilent:
     	subsection=link_(("\t"*max(depth-2,0))+"*", "__"+this_dir.replace("_", " ")+"__",url_dir)
