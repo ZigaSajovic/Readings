@@ -8,6 +8,7 @@ linkPath="https://github.com/ZigaSajovic/Readings/tree/master/"
 valid_files=["pdf","txt"]
 forbiden=[".git","./"]
 silent=[".silent"]
+ignore=[".ignoreIt"]
 
 def directoryDescent(pwd="./",depth=0):
   pdfNum=0
@@ -18,6 +19,9 @@ def directoryDescent(pwd="./",depth=0):
   if dir__[0] not in forbiden:
     this_dir=dir__[0].split("/")[-1]
     url_dir="/".join(dir__[0].split("/")[1:])
+    toBeIgnored=any(map(lambda x:x in ignore,dir__[2]))
+    if toBeIgnored:
+      return 0
     isSilent=any(map(lambda x:x in silent,dir__[2]))
     if isSilent:
     	subsection=link_(("\t"*max(depth-2,0))+"*", "__"+this_dir.replace("_", " ")+"__",url_dir)

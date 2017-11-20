@@ -14,5 +14,5 @@ for d in dirs:
       pgs+=pdf.getNumPages()
       fls+=1
   sum+=pgs
-  print("%s:\n%d papers, %d pages\n---"%(d[0].split("/")[1].replace("_", " "),fls,pgs))
+  print("%s:\n%d papers, %d pages\n---"%(d[0].split("/")[-1].replace("_", " "),fls,pgs))
 print("Total count: Directory contains %d pages of pdf documents"%sum)
