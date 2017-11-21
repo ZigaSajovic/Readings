@@ -5,25 +5,25 @@ import os
 
 linkPath="https://github.com/ZigaSajovic/Readings/tree/master/"
 
-valid_files=["pdf","txt"]
-forbiden=[".git","./"]
+valid_files=["pdf","txt","ipynb"]
+forbiden=[".git","./",".ipynb_checkpoints"]
 silent=[".silent"]
 ignore=[".ignoreIt"]
 
-def directoryDescent(pwd="./",depth=0):
+def directoryDescent(pwd="./",depth=0,silent_=False):
   pdfNum=0
   dir__=next(os.walk(pwd))
   dirs=[dir_ for dir_ in dir__[1] if dir_ not in forbiden]
   dirs=sorted(dirs)
+  toBeIgnored=any(map(lambda x:x in ignore,dir__[2]))
+  if toBeIgnored:
+    return 0
+  isSilent=silent_ or any(map(lambda x:x in silent,dir__[2]))
   link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
   if dir__[0] not in forbiden:
     this_dir=dir__[0].split("/")[-1]
     url_dir="/".join(dir__[0].split("/")[1:])
-    toBeIgnored=any(map(lambda x:x in ignore,dir__[2]))
-    if toBeIgnored:
-      return 0
-    isSilent=any(map(lambda x:x in silent,dir__[2]))
-    if isSilent:
+    if depth>1:
     	subsection=link_(("\t"*max(depth-2,0))+"*", "__"+this_dir.replace("_", " ")+"__",url_dir)
     else:
 	    subsection=link_(("\t"*(depth-1))+"#"*(depth+1), this_dir.replace("_", " "),url_dir)
@@ -45,7 +45,7 @@ def directoryDescent(pwd="./",depth=0):
       	listElement=link_(("\t"*(depth-1))+"*",pdf.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdf))
       	print(listElement, file=f)
   for d in dirs:
-    pdfNum+=directoryDescent(os.path.join(pwd,d), depth=depth+1)
+    pdfNum+=directoryDescent(os.path.join(pwd,d), depth=depth+1, silent_=isSilent)
   return pdfNum
 
 with open("README.md", "w") as f:
