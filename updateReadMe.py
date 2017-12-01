@@ -24,27 +24,24 @@ def directoryDescent(pwd="./",depth=0, noExpand=False):
     url_dir="/".join(dir__[0].split("/")[1:])
     as_file=any(map(lambda x:x in asFile,dir__[2]))
     if depth>1:
-    	subsection=link_(("\t"*max(depth-2,0))+"*", ("__" if not as_file else "")+this_dir.replace("_", " ")+("__" if not as_file else ""),url_dir)
+      subsection=link_(("\t"*max(depth-2,0))+"*", ("__" if not as_file else "")+this_dir.replace("_", " ")+("__" if not as_file else ""),url_dir)
     else:
-	    subsection=link_(("\t"*(depth-1))+"#"*(depth+1), this_dir.replace("_", " "),url_dir)
+      subsection=link_(("\t"*(depth-1))+"#"*(depth+1), this_dir.replace("_", " "),url_dir)
     if not noExpand:
       print(subsection,file=f)
     fs_=[d for d in dir__[2] if d.split(".")[-1] in valid_files]
     pdfNum+=len(fs_)
     for f_ in sorted(fs_):
       pdf=f_
-      if " " in pdf:
-        pdf=pdf.replace(" ","_")
-        os.rename(os.path.join(dir__[0],f_),os.path.join(dir__[0],pdf))
-        print(dir__[0]+": Renamed "+f_+" -> "+pdf)
-      if not pdf[0].isupper():
-        pdfCap=pdf.capitalize()
+      pdfCap="_".join(map(lambda x:x[0:1].capitalize()+x[1:],("_".join(map(lambda x:x[0:1].capitalize()+x[1:] ,pdf.lower().replace(" ","_").split("_")))).split("-")))
+      pdfCap=pdfCap[0:1].capitalize()+pdfCap[1:]
+      if pdfCap!=pdf:
         os.rename(os.path.join(dir__[0],pdf),os.path.join(dir__[0],pdfCap))
         print(dir__[0]+": Renamed "+pdf+" -> "+pdfCap)
         pdf=pdfCap
       if not isSilent:
-      	listElement=link_(("\t"*(depth-1))+"*",pdf.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdf))
-      	print(listElement, file=f)
+        listElement=link_(("\t"*(depth-1))+"*",pdf.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdf))
+        print(listElement, file=f)
   for d in dirs:
     pdfNum+=directoryDescent(os.path.join(pwd,d), depth=depth+1, noExpand=noExpand)
   return pdfNum
