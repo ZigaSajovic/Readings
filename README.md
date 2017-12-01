@@ -37,6 +37,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Functional Analysis and Optimization](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Functional_Analysis_and_Optimization.pdf)
 * [Schroeder’s Equation in Several Variables](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_in_Several_Variables.pdf)
 * [Schroeder’s Equation in Several Variables: A survey](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_in_Several_Variables:_A_survey.pdf)
+* [THE MAZUR - ULAM THEOREM](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/THE_MAZUR_-_ULAM_THEOREM.pdf)
 * [The Operational Calculus](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/The_Operational_Calculus.pdf)
 * [Volterra series](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Volterra_series.pdf)
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
