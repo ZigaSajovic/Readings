@@ -79,7 +79,7 @@ with open("README.md", "w") as f:
     f2=open(file_list, "w")
   pdfNum=directoryDescent()
   if args.git:
-    close(f2)
+    f2.close()
 
 if args.git:
   for file in files:
