@@ -1,6 +1,3 @@
-"""
-Script updates the readMe when new papers are added
-"""
 import os
 from argparse import ArgumentParser
 
@@ -89,6 +86,7 @@ if args.git:
     for file in git_commands[command]:
       sp.call(["git", command, file])
   if sum(len(git_commands[c]) for c in git_commands)>0:
+    sp.call(["git", "add", readMe])
     sp.call(["git", "commit", "-m", commit_msg])
 
 print("ReadMe has been updated. Contains %d papers."%pdfNum)
