@@ -74,10 +74,12 @@ with open("README.md", "w") as f:
   with open("READMEtemplate.md", "r") as f2:
     for line in f2:
       print(line, file=f)
+  print("",file=f)
   if args.git:
     f2=open(file_list, "w")
-  print("",file=f)
   pdfNum=directoryDescent()
+  if args.git:
+    close(f2)
 
 if args.git:
   for file in files:
