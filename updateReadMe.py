@@ -49,8 +49,8 @@ def directoryDescent(pwd="./",depth=0, noExpand=False):
       if not isSilent:
         listElement=link_(("\t"*(depth-1))+"*",pdfCap.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdfCap))
         print(listElement, file=f)
-        print(os.path.join(dir__[0],pdfCap), file=f2)
         if args.git:
+          print(os.path.join(dir__[0],pdfCap), file=f2)
           if os.path.join(dir__[0],pdf) not in files:
             git_commands["add"].append(os.path.join(dir__[0],pdfCap))
           elif pdfCap!=pdf:
@@ -74,9 +74,10 @@ with open("README.md", "w") as f:
   with open("READMEtemplate.md", "r") as f2:
     for line in f2:
       print(line, file=f)
-  with open(file_list, "w") as f2:
-    print("",file=f)
-    pdfNum=directoryDescent()
+  if args.git:
+    f2=open(file_list, "w")
+  print("",file=f)
+  pdfNum=directoryDescent()
 
 if args.git:
   for file in files:
