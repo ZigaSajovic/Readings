@@ -2,6 +2,12 @@
 Script updates the readMe when new papers are added
 """
 import os
+from argparse import ArgumentParser
+
+parser = ArgumentParser(description="This script updates the README.md file and corrects file names.")
+parser.add_argument("-g","--git",action="store_true", default=False,\
+    help="If used, the script will add and commit to git, if README is changed.")
+args = parser.parse_args()
 
 linkPath="https://github.com/ZigaSajovic/Readings/tree/master/"
 
@@ -10,6 +16,11 @@ forbiden=[".git","./",".ipynb_checkpoints"]
 silent=[".silent",".asFile",".noExpand"]
 asFile=[".asFile"]
 noExpand_=[".noExpand"]
+
+file_list=".fileList"
+readMe="README.md"
+
+commit_msg="Automated commit."
 
 def directoryDescent(pwd="./",depth=0, noExpand=False):
   pdfNum=0
@@ -20,8 +31,8 @@ def directoryDescent(pwd="./",depth=0, noExpand=False):
   isSilent=any(map(lambda x:x in silent,dir__[2]))
   link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
   if dir__[0] not in forbiden:
-    this_dir=dir__[0].split("/")[-1]
-    url_dir="/".join(dir__[0].split("/")[1:])
+    this_dir=dir__[0].split(os.sep)[-1]
+    url_dir=os.sep.join(dir__[0].split(os.sep)[1:])
     as_file=any(map(lambda x:x in asFile,dir__[2]))
     if depth>1:
       subsection=link_(("\t"*max(depth-2,0))+"*", ("__" if not as_file else "")+this_dir.replace("_", " ")+("__" if not as_file else ""),url_dir)
@@ -38,18 +49,46 @@ def directoryDescent(pwd="./",depth=0, noExpand=False):
       if pdfCap!=pdf:
         os.rename(os.path.join(dir__[0],pdf),os.path.join(dir__[0],pdfCap))
         print(dir__[0]+": Renamed "+pdf+" -> "+pdfCap)
-        pdf=pdfCap
       if not isSilent:
-        listElement=link_(("\t"*(depth-1))+"*",pdf.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdf))
+        listElement=link_(("\t"*(depth-1))+"*",pdfCap.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdfCap))
         print(listElement, file=f)
+        print(os.path.join(dir__[0],pdfCap), file=f2)
+        if args.git:
+          if os.path.join(dir__[0],pdf) not in files:
+            git_commands["add"].append(os.path.join(dir__[0],pdfCap))
+          elif pdfCap!=pdf:
+            git_commands["rm"].append(os.path.join(dir__[0],pdf))
+            git_commands["add"].append(os.path.join(dir__[0],pdfCap))
+          if os.path.join(dir__[0],pdf) in files:
+            files.remove(os.path.join(dir__[0],pdf))
   for d in dirs:
     pdfNum+=directoryDescent(os.path.join(pwd,d), depth=depth+1, noExpand=noExpand)
   return pdfNum
+
+try:
+  with open(file_list,"r") as f:
+    files=set(line.strip() for line in f)
+except FileNotFoundError:
+  files=set()
+
+git_commands={"rm":[],"add":[]}
 
 with open("README.md", "w") as f:
   with open("READMEtemplate.md", "r") as f2:
     for line in f2:
       print(line, file=f)
-  print("",file=f)
-  pdfNum=directoryDescent()
-  print("ReadMe has been updated. Contains %d papers."%pdfNum)
+  with open(file_list, "w") as f2:
+    print("",file=f)
+    pdfNum=directoryDescent()
+
+if args.git:
+  for file in files:
+    git_commands["rm"].append(file)
+  import subprocess as sp
+  for command in git_commands:
+    for file in git_commands[command]:
+      sp.call(["git", command, file])
+  if sum(len(git_commands[c]) for c in git_commands)>0:
+    sp.call(["git", "commit", "-m", commit_msg])
+
+print("ReadMe has been updated. Contains %d papers."%pdfNum)
