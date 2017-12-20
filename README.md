@@ -77,7 +77,6 @@ Contemporary research I am fluent in, stored for future reference
 * [Independent Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Factor_Analysis.pdf)
 * [Noise Contrastive Estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise_Contrastive_Estimation.pdf)
 * [The Information Bottleneck Method](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Information_Bottleneck_Method.pdf)
-* [Understanding The Metropolis Hastings Algorithm](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Understanding_The_Metropolis_Hastings_Algorithm.pdf)
 * [Variational Bayesian Hidden Markov Models](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Hidden_Markov_Models.pdf)
 * [Variational Bayesian Mixtures Of Factor Analysers](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Mixtures_Of_Factor_Analysers.pdf)
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
