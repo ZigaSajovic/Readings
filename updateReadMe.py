@@ -41,7 +41,7 @@ def directoryDescent(pwd="./",depth=0, noExpand=False):
     pdfNum+=len(fs_)
     for f_ in sorted(fs_):
       pdf=f_
-      pdfCap="_".join(map(lambda x:x[0:1].capitalize()+x[1:],("_".join(map(lambda x:x[0:1].capitalize()+x[1:] ,pdf.lower().replace(" ","_").split("_")))).split("-")))
+      pdfCap="-".join(map(lambda x:x[0:1].capitalize()+x[1:],("_".join(map(lambda x:x[0:1].capitalize()+x[1:] ,pdf.lower().replace(" ","_").split("_")))).split("-")))
       pdfCap=pdfCap[0:1].capitalize()+pdfCap[1:]
       if pdfCap!=pdf:
         os.rename(os.path.join(dir__[0],pdf),os.path.join(dir__[0],pdfCap))
