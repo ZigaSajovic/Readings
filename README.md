@@ -79,6 +79,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Factor_Analysis.pdf)
 * [Independent Component Analysis Svd Perspective](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Component_Analysis_Svd_Perspective.pdf)
 * [Independent Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Factor_Analysis.pdf)
+* [Mc's For Mcmc'ists](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Mc's_For_Mcmc'ists.pdf)
 * [Noise Contrastive Estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise_Contrastive_Estimation.pdf)
 * [The Information Bottleneck Method](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Information_Bottleneck_Method.pdf)
 * [Understanding The Metropolis-Hastings Algorithm](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Understanding_The_Metropolis-Hastings_Algorithm.pdf)
