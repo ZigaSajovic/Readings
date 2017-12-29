@@ -2,8 +2,8 @@ import os
 from argparse import ArgumentParser
 
 parser = ArgumentParser(description="This script updates the README.md file and corrects file names.")
-parser.add_argument("-g","--git",action="store_true", default=False,\
-    help="If used, the script will add and commit to git, if README is changed.")
+parser.add_argument("-g","--git",const=True, default=False,metavar="COMMIT_MSG",\
+    nargs="?",help="If used, the script will add and commit to git, if README is changed.")
 args = parser.parse_args()
 
 linkPath="https://github.com/ZigaSajovic/Readings/tree/master/"
@@ -17,7 +17,7 @@ noExpand_=[".noExpand"]
 file_list=".fileList"
 readMe="README.md"
 
-commit_msg="Automated commit."
+commit_msg=args.git if isinstance(args.git,str) else "Automated commit."
 
 def directoryDescent(pwd="./",depth=0, noExpand=False):
   pdfNum=0
@@ -83,7 +83,6 @@ with open("README.md", "w") as f:
       f2.close()
   else:
     pdfNum=directoryDescent()
-
 
 if args.git:
   for file in files:
