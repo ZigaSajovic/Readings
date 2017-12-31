@@ -90,6 +90,8 @@ Contemporary research I am fluent in, stored for future reference
 * [__Doing Bayesian Data Analysis__](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis)
 	* [Kruschke: Doing Bayesian Data Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschke:_Doing_Bayesian_Data_Analysis.pdf)
 	* [Kruschkes Doing Bayesian Data Analysis In Pymc3.ipynb](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschkes_Doing_Bayesian_Data_Analysis_In_Pymc3.ipynb)
+* [__Principles Of Uncertainty__](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Principles_Of_Uncertainty)
+	* [Principles Of Uncertainty](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Principles_Of_Uncertainty/Principles_Of_Uncertainty.pdf)
 ## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
 * [A Hybrid Convolutional Variational Autoencoder For Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_For_Text_Generation.pdf)
 * [Auto Encoding Variational Bayes](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Auto_Encoding_Variational_Bayes.pdf)
