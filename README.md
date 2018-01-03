@@ -80,6 +80,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Factor_Analysis.pdf)
 * [Independent Component Analysis Svd Perspective](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Component_Analysis_Svd_Perspective.pdf)
 * [Independent Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Independent_Factor_Analysis.pdf)
+* [Introduction To Ranking Models Bradley-Terry, Luce, Mallows And Cps](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Introduction_To_Ranking_Models_Bradley-Terry,_Luce,_Mallows_And_Cps.pdf)
 * [Mc's For Mcmc'ists](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Mc's_For_Mcmc'ists.pdf)
 * [Noise Contrastive Estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise_Contrastive_Estimation.pdf)
 * [The Information Bottleneck Method](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Information_Bottleneck_Method.pdf)
