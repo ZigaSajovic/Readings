@@ -75,6 +75,7 @@ Contemporary research I am fluent in, stored for future reference
 * [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/RL_by_Denis_Silver_-_DeepMind)
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
 * [Bayesian Model Choice Via Markov Chain Monte Carlo Methods](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Bayesian_Model_Choice_Via_Markov_Chain_Monte_Carlo_Methods.pdf)
+* [Continuous-Time Markov Chains](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Continuous-Time_Markov_Chains.pdf)
 * [Decision And Choice: Luces Choice Axiom](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Decision_And_Choice:_Luces_Choice_Axiom.pdf)
 * [Explaining The Gibbs Sampler](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Explaining_The_Gibbs_Sampler.pdf)
 * [Factor Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Factor_Analysis.pdf)
