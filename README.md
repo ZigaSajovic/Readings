@@ -3,6 +3,8 @@
 Contemporary research I am fluent in, stored for future reference
 
 
+## [Algebra Systems](https://github.com/ZigaSajovic/Readings/tree/master/Algebra_Systems)
+* [Sparse Polynomial Multiplication And Division In Maple 14](https://github.com/ZigaSajovic/Readings/tree/master/Algebra_Systems/Sparse_Polynomial_Multiplication_And_Division_In_Maple_14.pdf)
 ## [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
 * [Categories And Haskell: An Introduction To The Mathematics Behind Modern Functional Programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_And_Haskell:_An_Introduction_To_The_Mathematics_Behind_Modern_Functional_Programming.pdf)
