@@ -5,6 +5,8 @@ Contemporary research I am fluent in, stored for future reference
 
 ## [Algebra Systems](https://github.com/ZigaSajovic/Readings/tree/master/Algebra_Systems)
 * [Sparse Polynomial Multiplication And Division In Maple 14](https://github.com/ZigaSajovic/Readings/tree/master/Algebra_Systems/Sparse_Polynomial_Multiplication_And_Division_In_Maple_14.pdf)
+## [Algorithm Design](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design)
+* [__Effective C++__](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design/Effective_C++)
 ## [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
 * [Categories And Haskell: An Introduction To The Mathematics Behind Modern Functional Programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_And_Haskell:_An_Introduction_To_The_Mathematics_Behind_Modern_Functional_Programming.pdf)
@@ -72,8 +74,6 @@ Contemporary research I am fluent in, stored for future reference
 * [Neural Machine Translation In Linear Time](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Neural_Machine_Translation_In_Linear_Time.pdf)
 * [Neural Tree Indexers For Text Understanding](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Neural_Tree_Indexers_For_Text_Understanding.pdf)
 * [Scheduled Sampling For Sequence Prediction With Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Scheduled_Sampling_For_Sequence_Prediction_With_Recurrent_Neural_Networks.pdf)
-## [Programming Design](https://github.com/ZigaSajovic/Readings/tree/master/Programming_Design)
-* [__Effective C++__](https://github.com/ZigaSajovic/Readings/tree/master/Programming_Design/Effective_C++)
 ## [Reinforcement Learning](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/Blogs.txt)
 * [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/RL_by_Denis_Silver_-_DeepMind)
