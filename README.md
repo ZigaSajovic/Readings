@@ -74,7 +74,6 @@ Contemporary research I am fluent in, stored for future reference
 * [Scheduled Sampling For Sequence Prediction With Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Scheduled_Sampling_For_Sequence_Prediction_With_Recurrent_Neural_Networks.pdf)
 ## [Programming Design](https://github.com/ZigaSajovic/Readings/tree/master/Programming_Design)
 * [__Effective C++__](https://github.com/ZigaSajovic/Readings/tree/master/Programming_Design/Effective_C++)
-	* [Effective C++](https://github.com/ZigaSajovic/Readings/tree/master/Programming_Design/Effective_C++/Effective_C++.pdf)
 ## [Reinforcement Learning](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/Blogs.txt)
 * [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/RL_by_Denis_Silver_-_DeepMind)
