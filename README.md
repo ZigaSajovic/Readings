@@ -6,6 +6,7 @@ Contemporary research I am fluent in, stored for future reference
 ## [Algebra Systems](https://github.com/ZigaSajovic/Readings/tree/master/Algebra_Systems)
 * [Sparse Polynomial Multiplication And Division In Maple 14](https://github.com/ZigaSajovic/Readings/tree/master/Algebra_Systems/Sparse_Polynomial_Multiplication_And_Division_In_Maple_14.pdf)
 ## [Algorithm Design](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design)
+* [Advanced Expression Templates Programming](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design/Advanced_Expression_Templates_Programming.pdf)
 * [__Effective C++__](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design/Effective_C++)
 ## [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
