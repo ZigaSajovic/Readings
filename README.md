@@ -8,6 +8,7 @@ Contemporary research I am fluent in, stored for future reference
 ## [Algorithm Design](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design)
 * [Advanced Expression Templates Programming](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design/Advanced_Expression_Templates_Programming.pdf)
 * [__Effective C++__](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design/Effective_C++)
+* [__Effective Modern C++__](https://github.com/ZigaSajovic/Readings/tree/master/Algorithm_Design/Effective_Modern_C++)
 ## [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
 * [Categories And Haskell: An Introduction To The Mathematics Behind Modern Functional Programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_And_Haskell:_An_Introduction_To_The_Mathematics_Behind_Modern_Functional_Programming.pdf)
