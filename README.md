@@ -80,6 +80,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/Blogs.txt)
 * [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/RL_by_Denis_Silver_-_DeepMind)
 ## [Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics)
+* [A Tutorial On Bayesian Optimization Of Expensive Cost Functions, With Application To Active User Modeling And Hierarchical Reinforcement Learning](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/A_Tutorial_On_Bayesian_Optimization_Of_Expensive_Cost_Functions,_With_Application_To_Active_User_Modeling_And_Hierarchical_Reinforcement_Learning.pdf)
 * [Bayesian Model Choice Via Markov Chain Monte Carlo Methods](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Bayesian_Model_Choice_Via_Markov_Chain_Monte_Carlo_Methods.pdf)
 * [Continuous-Time Markov Chains](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Continuous-Time_Markov_Chains.pdf)
 * [Decision And Choice: Luces Choice Axiom](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Decision_And_Choice:_Luces_Choice_Axiom.pdf)
