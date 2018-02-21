@@ -17,7 +17,6 @@ Contemporary research I am fluent in, stored for future reference
 * [The Extended Mind ](https://github.com/ZigaSajovic/Readings/tree/master/Cognitive_Science/The_Extended_Mind_.pdf)
 ## [Compilers](https://github.com/ZigaSajovic/Readings/tree/master/Compilers)
 * [__Modern Compiler Implementation In Java__](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_In_Java)
-	* [Modern Compiler Implementation In Java](https://github.com/ZigaSajovic/Readings/tree/master/Compilers/Modern_Compiler_Implementation_In_Java/Modern_Compiler_Implementation_In_Java.pdf)
 ## [Computer Vision](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision)
 * [A Variational Framework For Non Local Image](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/A_Variational_Framework_For_Non_Local_Image.pdf)
 * [Fast R Cnn](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fast_R_Cnn.pdf)
