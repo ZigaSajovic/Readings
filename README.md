@@ -43,6 +43,7 @@ Contemporary research I am fluent in, stored for future reference
 * [How Exactly Does Word2vec Work?](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/How_Exactly_Does_Word2vec_Work?.pdf)
 * [Word2vec Semi Derivation](https://github.com/ZigaSajovic/Readings/tree/master/Embeddings/Word2vec_Semi_Derivation.pdf)
 ## [Functional Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis)
+* [Calculus Of Functionals](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Calculus_Of_Functionals.pdf)
 * [Functional Analysis And Optimization](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Functional_Analysis_And_Optimization.pdf)
 * [Schroeder’s Equation In Several Variables](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_In_Several_Variables.pdf)
 * [Schroeder’s Equation In Several Variables: A Survey](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_In_Several_Variables:_A_Survey.pdf)
