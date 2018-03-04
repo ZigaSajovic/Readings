@@ -49,15 +49,15 @@ def directoryDescent(pwd="./",depth=0, noExpand=False):
       if not isSilent:
         listElement=link_(("\t"*(depth-1))+"*",pdfCap.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdfCap))
         print(listElement, file=f)
-        if args.git:
-          print(os.path.join(dir__[0],pdfCap), file=f2)
-          if os.path.join(dir__[0],pdf) not in files:
-            git_commands["add"].append(os.path.join(dir__[0],pdfCap))
-          elif pdfCap!=pdf:
-            git_commands["rm"].append(os.path.join(dir__[0],pdf))
-            git_commands["add"].append(os.path.join(dir__[0],pdfCap))
-          if os.path.join(dir__[0],pdf) in files:
-            files.remove(os.path.join(dir__[0],pdf))
+      if args.git and not noExpand:
+        print(os.path.join(dir__[0],pdfCap), file=f2)
+        if os.path.join(dir__[0],pdf) not in files:
+          git_commands["add"].append(os.path.join(dir__[0],pdfCap))
+        elif pdfCap!=pdf:
+          git_commands["rm"].append(os.path.join(dir__[0],pdf))
+          git_commands["add"].append(os.path.join(dir__[0],pdfCap))
+        if os.path.join(dir__[0],pdf) in files:
+          files.remove(os.path.join(dir__[0],pdf))
   for d in dirs:
     pdfNum+=directoryDescent(os.path.join(pwd,d), depth=depth+1, noExpand=noExpand)
   return pdfNum
