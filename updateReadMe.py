@@ -8,7 +8,7 @@ args = parser.parse_args()
 
 linkPath="https://github.com/ZigaSajovic/Readings/tree/master/"
 
-valid_files=["pdf","txt","ipynb"]
+valid_files=["pdf","txt","ipynb", "djvu"]
 forbiden=[".git","./",".ipynb_checkpoints"]
 silent=[".silent",".asFile",".noExpand"]
 asFile=[".asFile"]
