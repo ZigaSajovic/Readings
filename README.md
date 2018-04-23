@@ -37,6 +37,8 @@ Contemporary research I am fluent in, stored for future reference
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Spatial_Transformer_Networks.pdf)
 * [Visual Object Tracking Using Adaptive Correlation Filters](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Visual_Object_Tracking_Using_Adaptive_Correlation_Filters.pdf)
 * [You Only Look Once: Unified, Real Time Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/You_Only_Look_Once:_Unified,_Real_Time_Object_Detection.pdf)
+## [Data Mining](https://github.com/ZigaSajovic/Readings/tree/master/Data_Mining)
+* [Visualizing Data Using T-Sne](https://github.com/ZigaSajovic/Readings/tree/master/Data_Mining/Visualizing_Data_Using_T-Sne.pdf)
 ## [Deep Learning Theory](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory)
 * [Mathematics Of Deep Learning](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory/Mathematics_Of_Deep_Learning.pdf)
 * [Operational Calculus On Programming Spaces](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory/Operational_Calculus_On_Programming_Spaces.pdf)
