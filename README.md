@@ -38,6 +38,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Visual Object Tracking Using Adaptive Correlation Filters](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Visual_Object_Tracking_Using_Adaptive_Correlation_Filters.pdf)
 * [You Only Look Once: Unified, Real Time Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/You_Only_Look_Once:_Unified,_Real_Time_Object_Detection.pdf)
 ## [Data Mining](https://github.com/ZigaSajovic/Readings/tree/master/Data_Mining)
+* [Consensus Clustering: A Resampling-Based Method For Class Discovery And Visualization Of Gene Expression Microarray Data](https://github.com/ZigaSajovic/Readings/tree/master/Data_Mining/Consensus_Clustering:_A_Resampling-Based_Method_For_Class_Discovery_And_Visualization_Of_Gene_Expression_Microarray_Data.pdf)
 * [Visualizing Data Using T-Sne](https://github.com/ZigaSajovic/Readings/tree/master/Data_Mining/Visualizing_Data_Using_T-Sne.pdf)
 ## [Deep Learning Theory](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory)
 * [Mathematics Of Deep Learning](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory/Mathematics_Of_Deep_Learning.pdf)
