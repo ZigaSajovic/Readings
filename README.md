@@ -84,6 +84,7 @@ Contemporary research I am fluent in, stored for future reference
 ## [Neuro Science](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science)
 * [A Bayesian Hierarchical Framework For Spatial Modeling Of Fmri Data](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science/A_Bayesian_Hierarchical_Framework_For_Spatial_Modeling_Of_Fmri_Data.pdf)
 * [An Mcmc-Based Analysis Of A Multilevel Model For Functional Mri Data](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science/An_Mcmc-Based_Analysis_Of_A_Multilevel_Model_For_Functional_Mri_Data.pdf)
+* [Exploring The Brain Network: A Review On Resting-State Fmri Functional Connectivity](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science/Exploring_The_Brain_Network:_A_Review_On_Resting-State_Fmri_Functional_Connectivity.pdf)
 ## [Reinforcement Learning](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/Blogs.txt)
 * [__RL by Denis Silver - DeepMind__](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/RL_by_Denis_Silver_-_DeepMind)
