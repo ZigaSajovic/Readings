@@ -82,6 +82,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Neural Tree Indexers For Text Understanding](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Neural_Tree_Indexers_For_Text_Understanding.pdf)
 * [Scheduled Sampling For Sequence Prediction With Recurrent Neural Networks](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Scheduled_Sampling_For_Sequence_Prediction_With_Recurrent_Neural_Networks.pdf)
 ## [Neuro Science](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science)
+* [A Bayesian Hierarchical Framework For Spatial Modeling Of Fmri Data](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science/A_Bayesian_Hierarchical_Framework_For_Spatial_Modeling_Of_Fmri_Data.pdf)
 * [An Mcmc-Based Analysis Of A Multilevel Model For Functional Mri Data](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Science/An_Mcmc-Based_Analysis_Of_A_Multilevel_Model_For_Functional_Mri_Data.pdf)
 ## [Reinforcement Learning](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Reinforcement_Learning/Blogs.txt)
