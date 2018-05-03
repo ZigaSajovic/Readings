@@ -5,3 +5,4 @@
 * [Exploring The Brain Network: A Review On Resting-State Fmri Functional Connectivity](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/Exploring_The_Brain_Network:_A_Review_On_Resting-State_Fmri_Functional_Connectivity.pdf)
 * [Group Comparison Of Resting-State Fmri Data Using Multi-Subject Ica And Dual Regression](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/Group_Comparison_Of_Resting-State_Fmri_Data_Using_Multi-Subject_Ica_And_Dual_Regression.pdf)
 * [On The Relationship Between Seed-Based And Ica-Based Measures Of Functional Connectivity](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/On_The_Relationship_Between_Seed-Based_And_Ica-Based_Measures_Of_Functional_Connectivity.pdf)
+* [Ed3book](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/Ed3book.pdf)
