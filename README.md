@@ -40,6 +40,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Exploring The Brain Network: A Review On Resting-State Fmri Functional Connectivity](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/Exploring_The_Brain_Network:_A_Review_On_Resting-State_Fmri_Functional_Connectivity.pdf)
 * [Group Comparison Of Resting-State Fmri Data Using Multi-Subject Ica And Dual Regression](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/Group_Comparison_Of_Resting-State_Fmri_Data_Using_Multi-Subject_Ica_And_Dual_Regression.pdf)
 * [On The Relationship Between Seed-Based And Ica-Based Measures Of Functional Connectivity](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/On_The_Relationship_Between_Seed-Based_And_Ica-Based_Measures_Of_Functional_Connectivity.pdf)
+* [Subject To Group Comparison Of Fmri Data Using Group Guided Dual Independent Component Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Neuro_Imaging/Subject_To_Group_Comparison_Of_Fmri_Data_Using_Group_Guided_Dual_Independent_Component_Analysis.pdf)
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
 * [Batch Normalization: Accelerating Deep Network Training By Reducing Internal Covariate Shift](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Batch_Normalization:_Accelerating_Deep_Network_Training_By_Reducing_Internal_Covariate_Shift.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Blogs.txt)
