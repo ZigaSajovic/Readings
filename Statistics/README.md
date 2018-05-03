@@ -18,5 +18,8 @@
 * [Variational Bayesian Mixtures Of Factor Analysers](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Mixtures_Of_Factor_Analysers.pdf)
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
 * [Variational Inference: A Review For Statisticians](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Inference:_A_Review_For_Statisticians.pdf)
+## [Doing Bayesian Data Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis)
 * [Kruschke: Doing Bayesian Data Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschke:_Doing_Bayesian_Data_Analysis.pdf)
 * [Kruschkes Doing Bayesian Data Analysis In Pymc3.ipynb](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschkes_Doing_Bayesian_Data_Analysis_In_Pymc3.ipynb)
+## [Gaussian Processes for Machine Learning](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Gaussian_Processes_for_Machine_Learning)
+## [Principles Of Uncertainty](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Principles_Of_Uncertainty)
