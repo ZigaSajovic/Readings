@@ -1,4 +1,4 @@
-# [Functional Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis)
+## [Functional Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis)
 * [Calculus Of Functionals](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Calculus_Of_Functionals.pdf)
 * [Functional Analysis And Optimization](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Functional_Analysis_And_Optimization.pdf)
 * [Schroeder’s Equation In Several Variables](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Schroeder’s_Equation_In_Several_Variables.pdf)

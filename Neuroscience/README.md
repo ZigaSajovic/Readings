@@ -1,4 +1,4 @@
-# [Neuroscience](https://github.com/ZigaSajovic/Readings/tree/master/Neuroscience)
+## [Neuroscience](https://github.com/ZigaSajovic/Readings/tree/master/Neuroscience)
 * [A Bayesian Hierarchical Framework For Spatial Modeling Of Fmri Data](https://github.com/ZigaSajovic/Readings/tree/master/Neuroscience/A_Bayesian_Hierarchical_Framework_For_Spatial_Modeling_Of_Fmri_Data.pdf)
 * [An Mcmc-Based Analysis Of A Multilevel Model For Functional Mri Data](https://github.com/ZigaSajovic/Readings/tree/master/Neuroscience/An_Mcmc-Based_Analysis_Of_A_Multilevel_Model_For_Functional_Mri_Data.pdf)
 * [Characterizing Individual Differences In Functional Connectivity: Using Dual-Regression And Seed-Based Approaches](https://github.com/ZigaSajovic/Readings/tree/master/Neuroscience/Characterizing_Individual_Differences_In_Functional_Connectivity:_Using_Dual-Regression_And_Seed-Based_Approaches.pdf)

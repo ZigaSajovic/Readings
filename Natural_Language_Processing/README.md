@@ -1,4 +1,4 @@
-# [Natural Language Processing](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing)
+## [Natural Language Processing](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing)
 * [A Decomposable Attention Model For Natural Language Inference](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/A_Decomposable_Attention_Model_For_Natural_Language_Inference.pdf)
 * [Attention Is All You Need](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Attention_Is_All_You_Need.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Natural_Language_Processing/Blogs.txt)

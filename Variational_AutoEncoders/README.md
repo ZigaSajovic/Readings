@@ -1,4 +1,4 @@
-# [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
+## [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
 * [A Hybrid Convolutional Variational Autoencoder For Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_For_Text_Generation.pdf)
 * [Auto Encoding Variational Bayes](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Auto_Encoding_Variational_Bayes.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Blogs.txt)
