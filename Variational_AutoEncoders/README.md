@@ -1,0 +1,7 @@
+# [Variational AutoEncoders](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders)
+* [A Hybrid Convolutional Variational Autoencoder For Text Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/A_Hybrid_Convolutional_Variational_Autoencoder_For_Text_Generation.pdf)
+* [Auto Encoding Variational Bayes](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Auto_Encoding_Variational_Bayes.pdf)
+* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Blogs.txt)
+* [Draw: A Recurrent Neural Network For Image Generation](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Draw:_A_Recurrent_Neural_Network_For_Image_Generation.pdf)
+* [Improved Variational Autoencoders For Text Modeling Using Dilated Convolutions](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Improved_Variational_Autoencoders_For_Text_Modeling_Using_Dilated_Convolutions.pdf)
+* [Semi Supervised Learning With Deep Generative Models](https://github.com/ZigaSajovic/Readings/tree/master/Variational_AutoEncoders/Semi_Supervised_Learning_With_Deep_Generative_Models.pdf)

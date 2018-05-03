@@ -1,0 +1,7 @@
+# [Category Theory](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory)
+* [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Blogs.txt)
+* [Categories And Haskell: An Introduction To The Mathematics Behind Modern Functional Programming](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_And_Haskell:_An_Introduction_To_The_Mathematics_Behind_Modern_Functional_Programming.pdf)
+* [Objects Of Categories As Complex Numbers](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Objects_Of_Categories_As_Complex_Numbers.pdf)
+* [Seven Trees In One](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Seven_Trees_In_One.pdf)
+* [The Derivative Of A Regular Type Is Its Type Of One Hole Contexts](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/The_Derivative_Of_A_Regular_Type_Is_Its_Type_Of_One_Hole_Contexts.pdf)
+* [The Two Dualities Of Computation: Negative And Fractional Types](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/The_Two_Dualities_Of_Computation:_Negative_And_Fractional_Types.pdf)
