@@ -37,12 +37,12 @@ def directoryDescent(pwd="./",depths=[0], noExpand=False):
   change=False
   dir__=next(os.walk(pwd))
   dirs=[dir_ for dir_ in dir__[1] if dir_ not in forbiden]
-  dirs=sorted(dirs)
   noExpand=noExpand or any(map(lambda x:x in noExpand_,dir__[2]))
   isSilent=any(map(lambda x:x in silent,dir__[2]))
   link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
 
   if dir__[0] not in forbiden:
+    dirs=sorted(dirs)
     this_dir=dir__[0].split(os.sep)[-1]
     url_dir=os.sep.join(dir__[0].split(os.sep)[1:])
     as_file=any(map(lambda x:x in asFile,dir__[2]))
@@ -67,7 +67,7 @@ def directoryDescent(pwd="./",depths=[0], noExpand=False):
           listElement=link_(("\t"*(depth-1))+"*",pdfCap.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdfCap))
           print(listElement, file=_f)
       if args.git and not noExpand:
-        change=change or fix_git(os.path.join(dir__[0],pdfCap),os.path.join(dir__[0],pdf),pdfCap,pdf)
+        change= fix_git(os.path.join(dir__[0],pdfCap),os.path.join(dir__[0],pdf),pdfCap,pdf) or change
   for d in dirs:
     readMe_path_=os.path.join(os.path.join(pwd,d),readMe)
     _files.append(open(readMe_path_,"w"))
