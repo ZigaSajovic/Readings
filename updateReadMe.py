@@ -22,6 +22,7 @@ commit_msg=args.git if isinstance(args.git,str) else "Automated commit."
 
 def fix_git(new_name, old_name, new_=True, old_=True, force=False):
   print(new_name, file=f2)
+  change=old_name not in files or new_!=old_
   if old_name not in files or force:
     git_commands["add"].append(new_name)
   elif new_!=old_:
@@ -29,17 +30,21 @@ def fix_git(new_name, old_name, new_=True, old_=True, force=False):
     git_commands["add"].append(new_name)
   if old_name in files:
     files.remove(old_name)
-  return old_name not in files or new!=old
+  return change
 
 
 def directoryDescent(pwd="./",depths=[0], noExpand=False):
   pdfNum=0
   change=False
   dir__=next(os.walk(pwd))
-  dirs=[dir_ for dir_ in dir__[1] if dir_ not in forbiden]
+  dirs=sorted([dir_ for dir_ in dir__[1] if dir_ not in forbiden])
   noExpand=noExpand or any(map(lambda x:x in noExpand_,dir__[2]))
   isSilent=any(map(lambda x:x in silent,dir__[2]))
   link_=lambda pre, s1, s2:pre+" ["+s1+"]("+linkPath+s2+")"
+  readMe_path_=os.path.join(pwd,readMe)
+  create_readme= (not noExpand) and dir__[0] not in forbiden
+  if create_readme:
+    _files.append(open(readMe_path_,"w"))
 
   if dir__[0] not in forbiden:
     dirs=sorted(dirs)
@@ -69,17 +74,16 @@ def directoryDescent(pwd="./",depths=[0], noExpand=False):
       if args.git and not noExpand:
         change= fix_git(os.path.join(dir__[0],pdfCap),os.path.join(dir__[0],pdf),pdfCap,pdf) or change
   for d in dirs:
-    readMe_path_=os.path.join(os.path.join(pwd,d),readMe)
-    _files.append(open(readMe_path_,"w"))
     try:
       pdfNum_, change_=directoryDescent(os.path.join(pwd,d), depths=list(map(lambda x:x+1,depths))+[1], noExpand=noExpand)
-      readMe_files.append(readMe_path_)
       change=change or change_
       pdfNum+=pdfNum_
     finally:
-      _files.pop().close()
+      pass      
+  if create_readme:
     if change:
       fix_git(readMe_path_, readMe_path_, force=True)
+    _files.pop().close()
   return pdfNum, change
 
 try:
@@ -101,11 +105,11 @@ print("",file=f)
 if args.git:
   f2=open(file_list, "w")
   try:
-    pdfNum, _=directoryDescent()
+    pdfNum, change=directoryDescent()
   finally:
     f2.close()
 else:
-  pdfNum, _ =directoryDescent()
+  pdfNum, change =directoryDescent()
 
 _files.pop().close()
 
@@ -118,9 +122,10 @@ if args.git:
   for command in git_commands:
     for file in git_commands[command]:
       sp.call(["git", command, file])
-  if sum(len(git_commands[c]) for c in git_commands)>0:
-    for rM in readMe_files:
-      sp.call(["git", "add", rM])
+  if change:
     sp.call(["git", "commit", "-m", commit_msg])
 
-print("ReadMe has been updated. Contains %d papers."%pdfNum)
+if change:
+  print("Changes have been committed, ReadMe has been updated. Contains %d papers."%pdfNum)
+else:
+  print("No changes to commit. Contains %d papers."%pdfNum)
