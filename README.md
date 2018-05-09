@@ -114,6 +114,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Variational Bayesian Mixtures Of Factor Analysers](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Mixtures_Of_Factor_Analysers.pdf)
 * [Variational Bayesian Theory](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Bayesian_Theory.pdf)
 * [Variational Inference: A Review For Statisticians](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Variational_Inference:_A_Review_For_Statisticians.pdf)
+* [Why We (usually) Don’t Have To Worry About Multiple Comparisons](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Why_We_(usually)_Don’t_Have_To_Worry_About_Multiple_Comparisons.pdf)
 * [__Doing Bayesian Data Analysis__](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis)
 	* [Kruschke: Doing Bayesian Data Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschke:_Doing_Bayesian_Data_Analysis.pdf)
 	* [Kruschkes Doing Bayesian Data Analysis In Pymc3.ipynb](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschkes_Doing_Bayesian_Data_Analysis_In_Pymc3.ipynb)
