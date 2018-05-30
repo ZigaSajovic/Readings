@@ -13,5 +13,6 @@
 * [Once For All: A Two Flow Convolutional Neural Network For Visual Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Once_For_All:_A_Two_Flow_Convolutional_Neural_Network_For_Visual_Tracking.pdf)
 * [R Fcn: Object Detection Via Region Based Fully Convolutional Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/R_Fcn:_Object_Detection_Via_Region_Based_Fully_Convolutional_Networks.pdf)
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Spatial_Transformer_Networks.pdf)
+* [Unveiling The Power Of Deep Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Unveiling_The_Power_Of_Deep_Tracking.pdf)
 * [Visual Object Tracking Using Adaptive Correlation Filters](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Visual_Object_Tracking_Using_Adaptive_Correlation_Filters.pdf)
 * [You Only Look Once: Unified, Real Time Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/You_Only_Look_Once:_Unified,_Real_Time_Object_Detection.pdf)
