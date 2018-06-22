@@ -111,6 +111,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Mc's For Mcmc'ists](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Mc's_For_Mcmc'ists.pdf)
 * [Noise Contrastive Estimation](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Noise_Contrastive_Estimation.pdf)
 * [On The De Finetti’s Representation Theorem: An Evergreen (and Often Misunderstood) Result At The Foundation Of Statistics](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/On_The_De_Finetti’s_Representation_Theorem:_An_Evergreen_(and_Often_Misunderstood)_Result_At_The_Foundation_Of_Statistics.pdf)
+* [R Programs For Computing Truncated Distributions](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/R_Programs_For_Computing_Truncated_Distributions.pdf)
 * [The De Finetti 0-1 Representation Theorem](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_De_Finetti_0-1_Representation_Theorem.pdf)
 * [The Information Bottleneck Method](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/The_Information_Bottleneck_Method.pdf)
 * [Understanding The Metropolis-Hastings Algorithm](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Understanding_The_Metropolis-Hastings_Algorithm.pdf)
