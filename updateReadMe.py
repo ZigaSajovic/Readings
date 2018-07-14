@@ -20,8 +20,9 @@ readMe="README.md"
 commit_msg=args.git if isinstance(args.git,str) else "Automated commit."
 
 
-def fix_git(new_name, old_name, new_=True, old_=True, force=False):
-  print(new_name, file=f2)
+def fix_git(new_name, old_name, new_=True, old_=True, force=False, make_note=True):
+  if make_note:
+    print(new_name, file=f2)
   change=old_name not in files or new_!=old_
   if old_name not in files or force:
     git_commands["add"].append(new_name)
@@ -44,6 +45,7 @@ def directoryDescent(pwd="./",depths=[0], noExpand=False):
   readMe_path_=os.path.join(pwd,readMe)
   create_readme= (not noExpand) and dir__[0] not in forbiden
   if create_readme:
+    # print(dir__[0].split(os.sep)[-1], readMe_path_)
     _files.append(open(readMe_path_,"w"))
 
   if dir__[0] not in forbiden:
@@ -71,6 +73,7 @@ def directoryDescent(pwd="./",depths=[0], noExpand=False):
         for _f,depth in zip(_files,depths):
           listElement=link_(("\t"*(depth-1))+"*",pdfCap.replace(".pdf","").replace("_"," "),os.path.join(url_dir,pdfCap))
           print(listElement, file=_f)
+      #print(this_dir, not noExpand, 1 if args.git else 2, "AAA")
       if args.git and not noExpand:
         change= fix_git(os.path.join(dir__[0],pdfCap),os.path.join(dir__[0],pdf),pdfCap,pdf) or change
   for d in dirs:
@@ -82,7 +85,7 @@ def directoryDescent(pwd="./",depths=[0], noExpand=False):
       pass      
   if create_readme:
     if change:
-      fix_git(readMe_path_, readMe_path_, force=True)
+      fix_git(readMe_path_, readMe_path_, force=True, make_note=False)
     _files.pop().close()
   return pdfNum, change
 
@@ -115,6 +118,9 @@ _files.pop().close()
 
 assert not len(_files), "Error: some files still open"
 
+if change:
+  git_commands["add"].append(readMe)
+
 if args.git:
   for file in files:
     git_commands["rm"].append(file)
@@ -124,8 +130,8 @@ if args.git:
       sp.call(["git", command, file])
   if change:
     sp.call(["git", "commit", "-m", commit_msg])
-
-if change:
-  print("Changes have been committed, ReadMe has been updated. Contains %d papers."%pdfNum)
+    print("Changes have been committed, ReadMe has been updated. Contains %d papers."%pdfNum)
+  else:
+    print("No changes to commit. Contains %d papers."%pdfNum)
 else:
-  print("No changes to commit. Contains %d papers."%pdfNum)
+  print("ReadMe updated. Contains %d papers."%pdfNum)
