@@ -44,6 +44,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Visualizing Data Using T-Sne](https://github.com/ZigaSajovic/Readings/tree/master/Data_Mining/Visualizing_Data_Using_T-Sne.pdf)
 ## [Deep Learning Theory](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory)
 * [Mathematics Of Deep Learning](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory/Mathematics_Of_Deep_Learning.pdf)
+* [Operational Calculus For Differentiable Programming](https://github.com/ZigaSajovic/Readings/tree/master/Deep_Learning_Theory/Operational_Calculus_For_Differentiable_Programming.pdf)
 ## [Differential Geometry](https://github.com/ZigaSajovic/Readings/tree/master/Differential_Geometry)
 * [An Introduction To Curve-Shortening And The Ricci Flow](https://github.com/ZigaSajovic/Readings/tree/master/Differential_Geometry/An_Introduction_To_Curve-Shortening_And_The_Ricci_Flow.pdf)
 * [Curve Shortening Flow](https://github.com/ZigaSajovic/Readings/tree/master/Differential_Geometry/Curve_Shortening_Flow.pdf)
