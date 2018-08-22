@@ -57,7 +57,6 @@ Contemporary research I am fluent in, stored for future reference
 * [The Mazur   Ulam Theorem](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/The_Mazur___Ulam_Theorem.pdf)
 * [The Operational Calculus](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/The_Operational_Calculus.pdf)
 * [Volterra Series](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Volterra_Series.pdf)
-## [Misc](https://github.com/ZigaSajovic/Readings/tree/master/Misc)
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
 * [Batch Normalization: Accelerating Deep Network Training By Reducing Internal Covariate Shift](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Batch_Normalization:_Accelerating_Deep_Network_Training_By_Reducing_Internal_Covariate_Shift.pdf)
 * [Blogs.txt](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Blogs.txt)
