@@ -25,4 +25,6 @@
 	* [Kruschke: Doing Bayesian Data Analysis](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschke:_Doing_Bayesian_Data_Analysis.pdf)
 	* [Kruschkes Doing Bayesian Data Analysis In Pymc3.ipynb](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Doing_Bayesian_Data_Analysis/Kruschkes_Doing_Bayesian_Data_Analysis_In_Pymc3.ipynb)
 * [__Gaussian Processes for Machine Learning__](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Gaussian_Processes_for_Machine_Learning)
+	* [Gaussian Processes For Machine Learning](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Gaussian_Processes_for_Machine_Learning/Gaussian_Processes_For_Machine_Learning.pdf)
 * [__Principles Of Uncertainty__](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Principles_Of_Uncertainty)
+	* [Principles Of Uncertainty](https://github.com/ZigaSajovic/Readings/tree/master/Statistics/Principles_Of_Uncertainty/Principles_Of_Uncertainty.pdf)

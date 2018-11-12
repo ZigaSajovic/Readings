@@ -1,4 +1,6 @@
 ## [Software Design](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design)
 * [Advanced Expression Templates Programming](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Advanced_Expression_Templates_Programming.pdf)
 * [__Effective C++__](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Effective_C++)
+	* [Effective C++](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Effective_C++/Effective_C++.pdf)
 * [__Effective Modern C++__](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Effective_Modern_C++)
+	* [Effective Modern C++](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Effective_Modern_C++/Effective_Modern_C++.pdf)
