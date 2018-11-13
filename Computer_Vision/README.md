@@ -13,6 +13,7 @@
 * [Mask R Cnn](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Mask_R_Cnn.pdf)
 * [Modeling And Propagating Cnns In A Tree Structure For Visual Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Modeling_And_Propagating_Cnns_In_A_Tree_Structure_For_Visual_Tracking.pdf)
 * [Once For All: A Two Flow Convolutional Neural Network For Visual Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Once_For_All:_A_Two_Flow_Convolutional_Neural_Network_For_Visual_Tracking.pdf)
+* [Path Aggregation Network For Instance Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Path_Aggregation_Network_For_Instance_Segmentation.pdf)
 * [R Fcn: Object Detection Via Region Based Fully Convolutional Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/R_Fcn:_Object_Detection_Via_Region_Based_Fully_Convolutional_Networks.pdf)
 * [Spatial Transformer Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Spatial_Transformer_Networks.pdf)
 * [Unveiling The Power Of Deep Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Unveiling_The_Power_Of_Deep_Tracking.pdf)
