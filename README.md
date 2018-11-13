@@ -27,6 +27,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Deep Grabcut For Object Selection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Deep_Grabcut_For_Object_Selection.pdf)
 * [Fast R Cnn](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fast_R_Cnn.pdf)
 * [Faster R Cnn: Towards Real Time Object Detection With Region Proposal Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Faster_R_Cnn:_Towards_Real_Time_Object_Detection_With_Region_Proposal_Networks.pdf)
+* [Feature Pyramid Networks For Object Detection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Feature_Pyramid_Networks_For_Object_Detection.pdf)
 * [Fully Convolutional Networks For Semantic Segmentation](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fully_Convolutional_Networks_For_Semantic_Segmentation.pdf)
 * [Fully Convolutional Siamese Networks For Object Tracking](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fully_Convolutional_Siamese_Networks_For_Object_Tracking.pdf)
 * [Geodesic Active Contours](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Geodesic_Active_Contours.pdf)
