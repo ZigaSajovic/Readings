@@ -1,5 +1,6 @@
 ## [Computer Vision](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision)
 * [A Variational Framework For Non Local Image](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/A_Variational_Framework_For_Non_Local_Image.pdf)
+* [Blazingly Fast Video Object Segmentation With Pixel-Wise Metric Learning](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Blazingly_Fast_Video_Object_Segmentation_With_Pixel-Wise_Metric_Learning.pdf)
 * [Deep Grabcut For Object Selection](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Deep_Grabcut_For_Object_Selection.pdf)
 * [Fast R Cnn](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Fast_R_Cnn.pdf)
 * [Faster R Cnn: Towards Real Time Object Detection With Region Proposal Networks](https://github.com/ZigaSajovic/Readings/tree/master/Computer_Vision/Faster_R_Cnn:_Towards_Real_Time_Object_Detection_With_Region_Proposal_Networks.pdf)
