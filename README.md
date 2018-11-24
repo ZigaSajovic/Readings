@@ -67,6 +67,7 @@ Contemporary research I am fluent in, stored for future reference
 * [Volterra Series](https://github.com/ZigaSajovic/Readings/tree/master/Functional_Analysis/Volterra_Series.pdf)
 ## [Graphs](https://github.com/ZigaSajovic/Readings/tree/master/Graphs)
 * [Convolutional Neural Networks On Graphs With Fast Localized Spectral Filtering](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Convolutional_Neural_Networks_On_Graphs_With_Fast_Localized_Spectral_Filtering.pdf)
+* [Fourier Analysis On Graphs](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Fourier_Analysis_On_Graphs.pdf)
 * [Graph Fourier Transform](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Graph_Fourier_Transform.pdf)
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
 * [Batch Normalization: Accelerating Deep Network Training By Reducing Internal Covariate Shift](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures/Batch_Normalization:_Accelerating_Deep_Network_Training_By_Reducing_Internal_Covariate_Shift.pdf)
