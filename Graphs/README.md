@@ -1,4 +1,5 @@
 ## [Graphs](https://github.com/ZigaSajovic/Readings/tree/master/Graphs)
+* [Convolutional Neural Networks For Mesh-Based Parcellation Of The Cerebral Cortex](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Convolutional_Neural_Networks_For_Mesh-Based_Parcellation_Of_The_Cerebral_Cortex.pdf)
 * [Convolutional Neural Networks On Graphs With Fast Localized Spectral Filtering](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Convolutional_Neural_Networks_On_Graphs_With_Fast_Localized_Spectral_Filtering.pdf)
 * [Fourier Analysis On Graphs](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Fourier_Analysis_On_Graphs.pdf)
 * [Graph Attention Networks](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Graph_Attention_Networks.pdf)
