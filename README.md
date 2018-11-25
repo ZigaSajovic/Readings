@@ -68,6 +68,7 @@ Contemporary research I am fluent in, stored for future reference
 ## [Graphs](https://github.com/ZigaSajovic/Readings/tree/master/Graphs)
 * [Convolutional Neural Networks On Graphs With Fast Localized Spectral Filtering](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Convolutional_Neural_Networks_On_Graphs_With_Fast_Localized_Spectral_Filtering.pdf)
 * [Fourier Analysis On Graphs](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Fourier_Analysis_On_Graphs.pdf)
+* [Graph Attention Networks](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Graph_Attention_Networks.pdf)
 * [Graph Fourier Transform](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Graph_Fourier_Transform.pdf)
 * [Semi-Supervised Classification With Graph Convolutional Networks](https://github.com/ZigaSajovic/Readings/tree/master/Graphs/Semi-Supervised_Classification_With_Graph_Convolutional_Networks.pdf)
 ## [Model Architectures](https://github.com/ZigaSajovic/Readings/tree/master/Model_Architectures)
