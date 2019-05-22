@@ -1,0 +1,2 @@
+## [Modern C++ Design Generic Programming And Design Patterns Applied](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Modern_C++_Design_Generic_Programming_And_Design_Patterns_Applied)
+* [Modern C++ Design: Generic Programming And Design Patterns Applied](https://github.com/ZigaSajovic/Readings/tree/master/Software_Design/Modern_C++_Design_Generic_Programming_And_Design_Patterns_Applied/Modern_C++_Design:_Generic_Programming_And_Design_Patterns_Applied.pdf)
