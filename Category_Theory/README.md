@@ -5,3 +5,5 @@
 * [Seven Trees In One](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Seven_Trees_In_One.pdf)
 * [The Derivative Of A Regular Type Is Its Type Of One Hole Contexts](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/The_Derivative_Of_A_Regular_Type_Is_Its_Type_Of_One_Hole_Contexts.pdf)
 * [The Two Dualities Of Computation: Negative And Fractional Types](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/The_Two_Dualities_Of_Computation:_Negative_And_Fractional_Types.pdf)
+* [__Categories for The Working Mathematician__](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_for_The_Working_Mathematician)
+	* [Categories For The Working Mathematician](https://github.com/ZigaSajovic/Readings/tree/master/Category_Theory/Categories_for_The_Working_Mathematician/Categories_For_The_Working_Mathematician.pdf)
